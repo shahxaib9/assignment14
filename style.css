@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Yusei Magic', sans-serif;
+}
+.document{
+    padding-top: 30px ;
+    text-align: center;
+    align-content: center;
+    font-size: 25px;
+}
+.styling{
+    font-size: 40px;
+    padding: 10%;
+}
+.styling:hover{
+    background-color: burlywood;
+    font-size: 30px;
+}
+.answer{
+    border: 7px inset burlywood;
+}
+.question{
+    border: 5px outset burlywood;
+}
